@@ -160,7 +160,7 @@ export function Hero() {
             asChild
             aria-label="Download resume"
           >
-            <a href="/resume.pdf" download className="group">
+            <a href="/Resume/Sathsara-Jayantha-Resume.pdf" download className="group">
               <Download className="w-4 h-4 mr-2 group-hover:-translate-y-0.5 transition-transform" />
               Download Resume
             </a>
